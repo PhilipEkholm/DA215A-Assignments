@@ -1,2 +1,3 @@
-# datateknik-laborationer
-Inbyggda System laborationer med Atmega32U4
+# DA215A-Assignments
+
+Exercises I did during the datastructure course, first year computer engineering. The code is written by me for Atmega 32U4 on Arduino Leonardo.
